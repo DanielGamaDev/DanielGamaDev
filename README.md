@@ -6,6 +6,6 @@ Técnico de Informática pelo IFF(campus de Itaperuna).
 
 Cursando Engenharia de Software na Uninter.
 
-Programador Full Stack(gosto mais de back-end).
+Programador Full Stack Junior.
 
 Confira meus projetos em destaque.
