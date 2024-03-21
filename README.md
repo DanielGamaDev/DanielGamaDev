@@ -1,5 +1,3 @@
-### Leia aqui para me conhecer um pouco melhor 👋
-
 Sou um programador brasileiro de Itaperuna-RJ morando em Nova Friburgo-RJ.
 
 Técnico de Informática pelo IFF(campus de Itaperuna).
